@@ -4,7 +4,7 @@ LOG_FILE = /tmp/jekyll$(PORT).log
 SHELL = /bin/bash -c
 .SHELLFLAGS = -e
 
-NOTEBOOK_FILES := $(shell find _notebooks -name '*.ipynb')
+NOTEBOOK_FILES := $(shell find _notebooks -name '*.ipynb' -print | sed 's/ /\\ /g')
 DESTINATION_DIRECTORY = _posts
 MARKDOWN_FILES := $(patsubst _notebooks/%.ipynb,$(DESTINATION_DIRECTORY)/%_IPYNB_2_.md,$(NOTEBOOK_FILES))
 
