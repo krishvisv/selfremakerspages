@@ -4,7 +4,7 @@ title: "3.1 Variables & Assignments: Python vs JavaScript"
 categories: [Programming Fundamentals, Tutorial]
 tags: [python, javascript, variables, assignment, beginner]
 description: Learn variables and assignments through the Peppa Pig Maze game
-permalink: /peppa-maze/variables
+permalink: /variables/crashers
 ---
 
 # 3.1 Variables & Data Types: Peppa's Maze Adventure
