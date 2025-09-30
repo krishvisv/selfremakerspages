@@ -3,7 +3,7 @@ layout: post
 title: Sprint 2 - Introduction to Python for RNG Interactive
 description:  Lesson for python For RNG
 breadcrumbs: True
-permalink: /JSRandomNumDemo
+permalink: /csp/big-idea-3/RandomPY/p3/Demo
 ---
 
 <html lang="en">

@@ -3,7 +3,7 @@ layout: post
 title: Sprint 2 - Introduction to Javascript for RNG Interactive
 description:  Lesson for Javascript For RNG
 breadcrumbs: True
-permalink: /JSRandomCoolVisual
+permalink: /csp/big-idea-3/RandomJS/p3/LiveDemo
 ---
 
 <html lang="en">
