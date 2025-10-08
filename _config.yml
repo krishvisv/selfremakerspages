@@ -20,7 +20,7 @@ description: "Class of 2026"
 owner_name: Open Coding Society 
 github_username: krishvisv 
 github_repo: "selfremakerspages" 
-baseurl: "" 
+baseurl: "/selfremakerspages" 
 future: true
 
 
